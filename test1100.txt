@@ -1,0 +1,8 @@
+main()
+{
+  erfjwelkwaerkw
+  dsflsk;dlwer
+  wewl;erw;lerwerw
+  e4423水水水水
+  return 22342;
+}
